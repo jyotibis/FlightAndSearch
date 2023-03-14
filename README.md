@@ -1,5 +1,3 @@
-# Welcom to Flight Service
-
 # Welcome to Flight Service
 
 ## project setup
@@ -21,3 +19,5 @@
     },
 
 '''
+
+- Once you've added your db config as listed above go to the src floder from the terminal and execute `npx sequelize db:create`
