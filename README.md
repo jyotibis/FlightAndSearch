@@ -1,5 +1,3 @@
-# Welcom to Flight Service
-
 # Welcome to Flight Service
 
 ## project setup
